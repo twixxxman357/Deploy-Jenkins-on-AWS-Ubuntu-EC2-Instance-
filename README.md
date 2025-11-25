@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,jenkins,github,vscode," />
+  </a>
+</p>
+
+
 # Deploying Jenkins on an AWS Ubuntu EC2 Instance
 
 This guide walks through provisioning an Ubuntu EC2 instance, installing Jenkins, opening access over the network, and troubleshooting common issues.
